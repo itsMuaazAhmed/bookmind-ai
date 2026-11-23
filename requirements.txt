@@ -1,0 +1,8 @@
+streamlit>=1.38
+python-dotenv
+pymupdf
+sentence-transformers
+faiss-cpu
+google-generativeai
+pytest
+pytest-mock
